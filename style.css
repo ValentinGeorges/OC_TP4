@@ -680,6 +680,14 @@ p {
     font-size: 11px;
 }
 
+.text-center p {
+    font-size: 3rem;
+}
+
+blockquote {
+    border-left: none;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
