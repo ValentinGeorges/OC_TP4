@@ -56,6 +56,10 @@ a:hover {
     padding: 20px 50px;
 }
 
+#bloc-8 {
+    color: #FFF;
+}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
@@ -654,6 +658,10 @@ a {
     color: #575757!important;
 }
 
+.footerX a {
+    color: #ffffff!important;
+}
+
 .container {
     max-width: 1000px;
 }
@@ -745,6 +753,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size: 1.4rem;
 }
 
 .portfolio-thumb {
@@ -783,12 +792,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: rgb(255, 255, 255)!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: rgb(255, 255, 255)!important;
 }
 
 .btn-atomic-tangerine:hover {
