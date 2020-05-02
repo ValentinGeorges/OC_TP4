@@ -745,6 +745,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size: 1.4rem;
 }
 
 .portfolio-thumb {
@@ -779,16 +780,16 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: rgb(245, 135, 83);
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: rgb(255, 255, 255)!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: rgb(255, 255, 255)!important;
 }
 
 .btn-atomic-tangerine:hover {
